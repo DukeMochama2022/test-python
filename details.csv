@@ -1,0 +1,11 @@
+User_ID,First_Name,Last_Name,Email,Phone,Address,City,Country,Product_ID,Product_Name,Category,Price,Quantity,Order_Date,Shipping_Date,Payment_Method
+1,John,Doe,john.doe@example.com,123-456-7890,123 Main St,New York,USA,P001,Widget A,Gadgets,19.99,3,2024-01-01,2024-01-03,Credit Card
+2,Jane,Smith,jane.smith@example.com,234-567-8901,456 Elm St,Los Angeles,USA,P002,Widget B,Gadgets,29.99,1,2024-01-02,2024-01-04,PayPal
+3,Ahmed,Khan,ahmed.khan@example.com,345-678-9012,789 Oak St,London,UK,P003,Widget C,Gadgets,39.99,2,2024-01-03,2024-01-05,Debit Card
+4,Maria,Garcia,maria.garcia@example.com,456-789-0123,321 Pine St,Madrid,Spain,P004,Widget D,Gadgets,49.99,5,2024-01-04,2024-01-06,Wire Transfer
+5,Li,Wang,li.wang@example.com,567-890-1234,654 Birch St,Beijing,China,P005,Widget E,Gadgets,59.99,4,2024-01-05,2024-01-07,Alipay
+
+6,Emily,Anderson,emily.anderson@example.com,678-901-2345,789 Cedar St,Sydney,Australia,P100,Widget X,Gadgets,99.99,7,2024-03-31,2024-04-02,Credit Card
+7,Michael,Brown,michael.brown@example.com,789-012-3456,123 Maple St,Tokyo,Japan,P101,Widget Y,Gadgets,109.99,3,2024-04-01,2024-04-03,PayPal
+8,Oliver,Wilson,oliver.wilson@example.com,890-123-4567,456 Willow St,Nairobi,Kenya,P102,Widget Z,Gadgets,119.99,1,2024-04-02,2024-04-04,Debit Card
+
